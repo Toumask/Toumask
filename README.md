@@ -1,2 +1,2 @@
-![](https://raw.githubusercontent.com/toumaske/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/toumaske/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/toumask/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/toumask/github-stats/master/generated/languages.svg#gh-dark-mode-only)
